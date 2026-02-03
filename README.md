@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivank Awasthi</h1>
+<h1 align="center">Hi 👋, I'm Shivank Shekher Awasthi</h1>
 <h3 align="center">Aspiring Data Analyst | SQL • Power BI • Python | Turning Data into Decisions</h3>
 
 ---
@@ -30,8 +30,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShivankAw07&show_icons=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivankAw07&theme=radical"/>
 </p>
 
 ---
