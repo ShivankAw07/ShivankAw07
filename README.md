@@ -26,11 +26,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShivankAw07&show_icons=true&theme=radical"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivankAw07&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivankAw07&show_icons=true&hide=issues,prs&count_private=true&theme=radical" />
 </p>
 
 ---
