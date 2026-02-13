@@ -6,7 +6,6 @@
 ## 🚀 About Me
 - 📊 Passionate about **Business, Sales & Sports Analytics**
 - 🧠 Skilled in SQL, Python, Power BI, Excel
-- 🎯 Goal: Data Analyst / Business Analyst Internship/Full Time Job/Internship
 - 📁 Check my projects below
 
 ---
