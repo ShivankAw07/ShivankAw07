@@ -26,11 +26,14 @@
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Snapshot
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivankAw07&show_icons=true&hide=issues,prs&count_private=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivankAw07&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
