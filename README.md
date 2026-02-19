@@ -25,7 +25,11 @@
 </p>
 
 ---
+## 📈 Contribution Graph
 
+<div align="center">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivankAw07&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFD700&area=true&hide_border=true"/>
+</div>
 
 
 ---
@@ -43,18 +47,3 @@
   <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivankAw07&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFD700&area=true&hide_border=true"/>
 </div>
 
-🐍 Contribution Snake
-
-<div align="center">
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/ShivankAw07/ShivankAw07/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Capsule"/>
-  <br/>
-  <sub>🚀 Crafting digital experiences, one commit at a time</sub>
-  <br/><br/>
-  <a href="https://github.com/ShivankAw07"><img src="https://img.shields.io/badge/Made%20with%20❤️%20by-ShivankAw07-FF6B6B?style=for-the-badge" alt="Made with love"></a>
-</div>
