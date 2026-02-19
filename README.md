@@ -10,12 +10,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
 
 ## 🧰 Tech Stack
 
