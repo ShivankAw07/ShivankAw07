@@ -1,58 +1,74 @@
-<h1 align="center">Hi 👋, I'm Shivank Shekher Awasthi</h1>
-<h3 align="center">Aspiring Data Analyst | SQL • Power BI • Python | Turning Data into Decisions</h3>
+# Hey, I'm Shivank 👋
+
+Mechanical Engineer turned AI builder. I'm interested in the gap between what LLMs *can* do and what people actually use them for — and I'm spending my time closing that gap one project at a time.
+
+Currently focused on **LLM application development**, **AI agents**, and **prompt engineering**.
 
 ---
 
-## 🚀 About Me
-- 📊 Passionate about **Business, Sales & Sports Analytics**
-- 🧠 Skilled in SQL, Python, Power BI, Excel
-- 📁 Check my projects below
+## What I'm Building
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🛒 Prompt-to-Cart | Natural language layer over quick-commerce apps — describe a meal, get a grouped cart | LangChain · Python |
+| 🔍 RAG Pipeline | Document Q&A over custom knowledge bases | LlamaIndex · FAISS · OpenAI |
+| 🤖 LLM Agent | Tool-using agent with memory and multi-step reasoning | LangGraph · Python |
+
+> Projects are works in progress. I build, break, and document everything publicly.
 
 ---
 
+## What I'm Learning
 
-## 🧰 Tech Stack
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📊 Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-### 🤖 Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-
-
----
-## 📈 Contribution Graph
-
-<div align="center">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivankAw07&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFD700&area=true&hide_border=true"/>
-</div>
-
+```
+Generative AI        ████████████░░  actively studying
+LangChain / LangGraph ███████████░░░  building with it
+Prompt Engineering   █████████████░  ongoing experiments
+RAG Systems          ████████████░░  building pipelines
+AI Agents            ██████████░░░░  current focus
+```
 
 ---
 
-## 🌍 Connect With Me
-<p>
-<a href="https://linkedin.com/in/yourlink"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:shivanksawasthi7@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
-</p>
+## Tech I Work With
 
+**AI / LLM**
+`LangChain` `LangGraph` `HuggingFace` `OpenAI API` `Ollama`
+
+**Data**
+`Python` `Pandas` `SQL` `Power BI`
+
+**Tools**
+`Git` `VS Code` `Streamlit` `FastAPI`
+
+---
+
+## How I Think About AI
+
+I'm not chasing benchmarks. I care about:
+- Does it solve a real problem someone actually has?
+- Can a non-technical person use it without a manual?
+- What breaks when you push it past the happy path?
+
+Most of my projects come from noticing friction in everyday workflows and asking *"could an LLM fix this?"*
+
+---
+
+## Daily Activity
+
+- 📝 Learning log → [`/til`](./til) — daily notes on what I studied or built
+- 🤗 HuggingFace → [@shivank](https://huggingface.co/shivank) — model experiments and demos
+- ✍️ Blog → [your-blog-link] — longer writeups on what I'm building and why
+
+---
+
+## Let's Talk
+
+If you're working on something in the LLM/AI agent space and want to collaborate or just geek out — open an issue on any repo or reach me at **[your email]**.
+
+---
+
+*B.Tech Mechanical Engineering, BIET Jhansi · Building in public since 2024*
 
 
 
