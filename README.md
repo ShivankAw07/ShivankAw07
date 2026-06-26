@@ -1,20 +1,8 @@
 # Hey, I'm Shivank 👋
 
-Mechanical Engineer turned AI builder. I'm interested in the gap between what LLMs *can* do and what people actually use them for — and I'm spending my time closing that gap one project at a time.
+Interested in the gap between what LLMs *can* do and what people actually use them for — and I'm spending my time closing that gap one project at a time.
 
-Currently focused on **LLM application development**, **AI agents**, and **prompt engineering**.
-
----
-
-## What I'm Building
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🛒 Prompt-to-Cart | Natural language layer over quick-commerce apps — describe a meal, get a grouped cart | LangChain · Python |
-| 🔍 RAG Pipeline | Document Q&A over custom knowledge bases | LlamaIndex · FAISS · OpenAI |
-| 🤖 LLM Agent | Tool-using agent with memory and multi-step reasoning | LangGraph · Python |
-
-> Projects are works in progress. I build, break, and document everything publicly.
+Currently focused on **LLM application development**, **AI agents**,**Data Analytics**, and **prompt engineering**.
 
 ---
 
@@ -54,17 +42,16 @@ Most of my projects come from noticing friction in everyday workflows and asking
 
 ---
 
-## Daily Activity
 
-- 📝 Learning log → [`/til`](./til) — daily notes on what I studied or built
-- 🤗 HuggingFace → [@shivank](https://huggingface.co/shivank) — model experiments and demos
-- ✍️ Blog → [your-blog-link] — longer writeups on what I'm building and why
+- 📝 Posts about learning path → [https://x.com/shivankaw7) — daily posts on what I studied or built
+- 🤗 HuggingFace → [@shivank](https://huggingface.co/Shivank07) — model experiments and demos
+
 
 ---
 
 ## Let's Talk
 
-If you're working on something in the LLM/AI agent space and want to collaborate or just geek out — open an issue on any repo or reach me at **[your email]**.
+If you're working on something in the LLM/AI agent space and want to collaborate or just geek out — open an issue on any repo or reach me at **[shivanksawasthi7@gmail.com]**.
 
 ---
 
