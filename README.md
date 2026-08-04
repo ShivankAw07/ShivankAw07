@@ -1,4 +1,4 @@
-# Hey, I'm Shivank Awasthi 👋   ![Profile Views](https://komarev.com/ghpvc/?username=ShivankAw07&color=blue&style=flat)
+# Hey, I'm Shivank Awasthi 👋   
 
 Interested in the gap between what LLMs *can* do and what people actually use them for — and I'm spending my time closing that gap one project at a time.
 
